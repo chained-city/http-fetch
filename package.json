@@ -1,6 +1,6 @@
 {
   "name": "@chained/http-fetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Http Fetch Chained.",
   "keywords": [
     "typescript",
@@ -59,6 +59,6 @@
     ]
   },
   "dependencies": {
-    "@chained/http": "^1.0.2"
+    "@chained/http": "^1.0.3"
   }
 }
